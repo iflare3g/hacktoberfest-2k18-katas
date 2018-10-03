@@ -1,4 +1,1 @@
-export const isOdd = () => {
-    // TO IMPLEMENT IN ANOTHER PR   
-};
- 
+export const isOdd = n => !(n % 2 === 0);
